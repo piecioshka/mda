@@ -2,6 +2,6 @@
 
 Collector of MDA* projects.
 
-## Demo 🎉
+## Preview 🎉
 
 <http://piecioshka.github.io/mda/>
