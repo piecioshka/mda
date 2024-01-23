@@ -1,7 +1,7 @@
 # mda
 
-Collector of MDA* projects.
+Collector of MDA projects.
 
 ## Preview 🎉
 
-<http://piecioshka.github.io/mda/>
+<https://piecioshka.github.io/mda/>
